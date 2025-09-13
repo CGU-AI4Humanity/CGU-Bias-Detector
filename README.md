@@ -22,7 +22,7 @@ This initiative serves as a critical stepping stone toward the larger research/c
 # Technology Focus Areas and Existing Gaps
 ## 1. Training Phase Bias Detection
 ### Current Limitations
-#### Most tools focus on post-hoc analysis rather than prevention[1][2]
+#### Most tools focus on post-hoc analysis rather than prevention
 #### Limited integration with modern ML frameworks like PyTorch 2.0, Transformers
 #### Insufficient handling of multimodal data (text + images, structured + unstructured)
 ### YantraEthica Innovation Focus
@@ -32,7 +32,7 @@ This initiative serves as a critical stepping stone toward the larger research/c
 #### Multi-framework integration (PyTorch, TensorFlow, JAX, Hugging Face)
 ## 2. Testing Phase Bias Auditing
 ### Current Limitations
-#### Limited adversarial testing capabilities for bias detection[3]
+#### Limited adversarial testing capabilities for bias detection
 #### Insufficient coverage of intersectional bias (multiple protected attributes)
 #### Manual testing processes that don’t scale
 ### YantraEthica Innovation Focus
@@ -42,7 +42,7 @@ This initiative serves as a critical stepping stone toward the larger research/c
 #### CI/CD integration for automated bias testing in deployment pipelines
 ## 3. Runtime Bias Monitoring
 ### Current Limitations
-#### Most monitoring is reactive rather than predictive[4][5]
+#### Most monitoring is reactive rather than predictive
 #### Limited real-time capabilities due to computational overhead
 #### Insufficient integration with MLOps platforms
 ### YantraEthica Innovation Focus
